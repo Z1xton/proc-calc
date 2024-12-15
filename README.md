@@ -1,2 +1,1 @@
-# proc-calc
-proj calc
+project calculator
